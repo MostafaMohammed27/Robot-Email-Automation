@@ -1,0 +1,1 @@
+This robot will read emails, filter them according to their subjects, save them into folders based on those subjects, download any attachments and store them in a designated folder, and then forward the emails from these folders using UIPath.
